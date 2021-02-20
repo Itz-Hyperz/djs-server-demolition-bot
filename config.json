@@ -1,0 +1,7 @@
+{
+    "main_config": {
+        "token": "your-bot-token",
+        "prefix": ".",
+        "guild_to_raid_id": "123456789101112"
+    }
+}
